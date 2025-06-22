@@ -1,3 +1,5 @@
 Wüsten-Oasenstadt
 
-Nachrichtensystem?
+Nachrichtensystem mit der Außenwelt?
+
+![[Moodboard_Rucika.png]]
