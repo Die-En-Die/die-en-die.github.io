@@ -1,3 +1,7 @@
-Die weiße Stadt (Architektur Gotik, Renaissance & Barock, hauptsächlich aus Marmor und weißem Sandstein)
+## Quickinfo
+Die weiße Stadt (Architektur Gotik, Renaissance, Barock, Historismus & Romanik, Viktorianisch, Gründerzeit)
 Blühende Hafen- und Handelsstadt
-Blühend im wahrsten Sinne des Wortes weil mitten im Frühling
+Blühend im wahrsten Sinne des Wortes (mitten im Frühling, voll von Blumen und blühenden Bäumen, sehr grün)
+
+
+## NPCs
