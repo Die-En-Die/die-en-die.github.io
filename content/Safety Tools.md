@@ -1,3 +1,4 @@
+
 >[!note] Index
 >- [[#Allgemein]]
 >	- [[#Communication is Key]]
@@ -34,9 +35,10 @@ Unter Sonstiges sind Themen die mit Vorsicht zu behandeln sind und potenziell im
 #### Schleier
 - Körperteilverluste
 - Tod von Kindern
+- akrophobische Trigger (Beschreibung von Höhen beim runterschauen)
 - klaustrophobische Trigger (nur sehr enge Höhlen)
 - trypanophobische Trigger (Nadeln & Injektionen)
-- akrophobische Trigger (Beschreibung von Höhen beim runterschauen)
+- trypophobische Trigger (Dinge mit Löchern)
 
 #### Sonstiges
 - Suizid
