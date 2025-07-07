@@ -1,3 +1,10 @@
+---
+title: Presta (Hauptstadt von Stendo)
+tags:
+  - stadt
+  - hauptstadt
+---
+
 ## Stil
 1. Ebene (überirdisch): kykladische Architektur
 2. Ebene (unterirdisch): große aus dem Berg geschlagene Hallen, polierter Stein, Wasserwege
@@ -6,4 +13,4 @@
 ![[Moodboard_Presta.png]]
 
 ## Info
-- 
+- Sitz von [[Königshaus Stendo]]

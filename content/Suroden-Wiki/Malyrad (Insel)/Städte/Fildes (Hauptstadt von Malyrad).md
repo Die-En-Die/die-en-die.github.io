@@ -1,7 +1,8 @@
 ---
-title: "{{title}}"
+title: Fildes (Hauptstadt von Malyrad)
 tags:
   - stadt
+  - hauptstadt
 ---
 
 ## Stil

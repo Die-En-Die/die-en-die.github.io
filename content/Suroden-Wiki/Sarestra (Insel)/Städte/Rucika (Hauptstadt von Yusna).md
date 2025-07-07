@@ -1,8 +1,14 @@
+---
+title: Rucika (Hauptstadt von Yusna)
+tags:
+  - stadt
+  - hauptstadt
+---
+
 ## Stil
 Wüsten-Oasenstadt
-
-Nachrichtensystem mit der Außenwelt?
 
 ![[Moodboard_Rucika.png]]
 
 ## Info
+- Sitz von [[Königshaus Yusna]] und [[Fey Hof Sommer]]
