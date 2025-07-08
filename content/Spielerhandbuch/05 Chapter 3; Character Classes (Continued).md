@@ -1,3 +1,6 @@
+---
+draft: "true"
+---
 
 
 Character class provides a character’s most exciting capabilities. This chapter offers twelve classes, each of which contains four subclasses—all summarized below.

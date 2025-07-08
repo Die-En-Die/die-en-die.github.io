@@ -1,3 +1,6 @@
+---
+draft: "true"
+---
 
 
 ANDREA PIPARO [![](https://media.dndbeyond.com/compendium-images/phb/MKDHZ1nxSXDDLOw2/03-050.opening-art.png)](https://media.dndbeyond.com/compendium-images/phb/MKDHZ1nxSXDDLOw2/03-050.opening-art.png)

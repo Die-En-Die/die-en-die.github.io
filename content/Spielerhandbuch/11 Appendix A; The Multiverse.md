@@ -1,3 +1,6 @@
+---
+draft: "true"
+---
 
 
 This appendix provides an overview of the multiverse, the overarching reality that encompasses D&D’s countless worlds and adventures. These realms are explored in [greater detail](/sources/dnd/dmg-2024/cosmology) in the [Dungeon Master’s Guide](/sources/dnd/dmg-2024), along with other planes like the [Far Realm](/sources/dnd/dmg-2024/cosmology#FarRealm), [Negative Plane](/sources/dnd/dmg-2024/cosmology#NegativePlane), and [Positive Plane](/sources/dnd/dmg-2024/cosmology#PositivePlane).

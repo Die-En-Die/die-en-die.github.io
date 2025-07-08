@@ -1,3 +1,6 @@
+---
+draft: "true"
+---
 
 >[!tip] Anmerkung des Autors
 >Eine Bessere Übersicht über die Sprüche und auch auf Deutsch findet ihr hier: https://www.dnddeutsch.de/zaubersprueche/?filter%5B%5D=src%3APHB

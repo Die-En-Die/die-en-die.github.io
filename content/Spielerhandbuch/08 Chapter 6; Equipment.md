@@ -1,3 +1,6 @@
+---
+draft: "true"
+---
 
 
 CAIO MONTEIRO [![](https://media.dndbeyond.com/compendium-images/phb/MKDHZ1nxSXDDLOw2/07-001.inventor-vi.png)](https://media.dndbeyond.com/compendium-images/phb/MKDHZ1nxSXDDLOw2/07-001.inventor-vi.png)

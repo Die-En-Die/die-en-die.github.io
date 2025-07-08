@@ -1,3 +1,6 @@
+---
+draft: "true"
+---
 
 
 This appendix provides stat blocks for creatures mentioned elsewhere in the book, particularly in the class, equipment, and spell chapters. See the [rules glossary](/sources/dnd/phb-2024/rules-glossary#StatBlock) for how to read a [stat block](/sources/dnd/free-rules/rules-glossary#StatBlock), and see the [Monster Manual](/sources/dnd/mm-2024) for even more creatures.

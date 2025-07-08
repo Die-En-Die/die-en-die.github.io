@@ -1,3 +1,6 @@
+---
+draft: "true"
+---
 
 
 CHRIS RALLIS [![](https://media.dndbeyond.com/compendium-images/phb/MKDHZ1nxSXDDLOw2/05-001.laeral-drizzt-vajra.png)](https://media.dndbeyond.com/compendium-images/phb/MKDHZ1nxSXDDLOw2/05-001.laeral-drizzt-vajra.png)

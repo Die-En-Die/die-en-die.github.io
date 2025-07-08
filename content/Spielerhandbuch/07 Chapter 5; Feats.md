@@ -1,3 +1,6 @@
+---
+draft: "true"
+---
 
 
 ZOLTAN BOROS [![](https://media.dndbeyond.com/compendium-images/phb/MKDHZ1nxSXDDLOw2/06-001.weathermay-foxgrove-alanik-arthur.png)](https://media.dndbeyond.com/compendium-images/phb/MKDHZ1nxSXDDLOw2/06-001.weathermay-foxgrove-alanik-arthur.png)

@@ -1,3 +1,6 @@
+---
+draft: "true"
+---
 
 
 ## [](#GlossaryConventions)Glossary Conventions

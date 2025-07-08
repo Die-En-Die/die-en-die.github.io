@@ -1,3 +1,6 @@
+---
+draft: "true"
+---
 
 
 KAI CARPENTER [![](https://media.dndbeyond.com/compendium-images/phb/MKDHZ1nxSXDDLOw2/08-001.jallarzi-mordenkainen-bigby.png)](https://media.dndbeyond.com/compendium-images/phb/MKDHZ1nxSXDDLOw2/08-001.jallarzi-mordenkainen-bigby.png)
