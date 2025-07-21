@@ -1,7 +1,9 @@
 ---
-title: "Königshaus Yusna"
+title: Königshaus Yusna
 tags:
   - organisation
+  - regierung
+  - königshaus
 ---
 
 ## Info

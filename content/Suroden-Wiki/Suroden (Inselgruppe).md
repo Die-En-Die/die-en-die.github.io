@@ -4,6 +4,21 @@ tags:
   - inselgruppe
 ---
 
+````
+```leaflet
+id: Suroden_Map
+image: [[Map_Placeholder.png]]
+bounds:
+    - [0, 0]
+    - [100, 100]
+unit: meters
+lat: 50
+long: 50
+defaultZoom: 2
+preserveAspect: true
+```
+````
+
 ![[Map_Placeholder.png]]
 ## Info
 - Inselgruppe aus 2 großen Inseln [[Malyrad (Insel)]] und [[Sarestra (Insel)]] und vielen kleineren Inseln

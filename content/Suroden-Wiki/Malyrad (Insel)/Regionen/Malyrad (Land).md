@@ -1,14 +1,16 @@
 ---
-title: "Malyrad (Land)"
+title: Malyrad (Land)
 tags:
+  - land
 ---
-
-## Stil
 
 ## Info
 - Hauptstadt: [[Fildes (Hauptstadt von Malyrad)]]
 - Regierung: [[Königshaus Malyrad]]
-- Umfasst die gleichnamige Insel [[Malyrad (Insel)]]
 
 ### Klima/Biome/Flora
 - siehe [[Malyrad (Insel)#Klima/Biome/Flora]]
+
+### Ausbreitung
+- erstreckt sich über die gesamte Fläche von [[Malyrad (Insel)]]
+- einige kleinere Inseln in direkter Umgebung

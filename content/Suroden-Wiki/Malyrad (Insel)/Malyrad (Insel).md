@@ -4,8 +4,6 @@ tags:
   - insel
 ---
 
-## Stil
-
 ## Info
 - Name abgeleitet von "kleiner Bruder"
 - Hoheitsgebiete: [[Malyrad (Land)]] und [[Fey Hof Frühling]]

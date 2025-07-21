@@ -6,11 +6,20 @@ tags:
 ---
 
 ## Stil
-Die weiße Stadt (Architektur Gotik, Renaissance, Barock, Historismus & Romanik, Viktorianisch, Gründerzeit)
+Die "bunte Stadt", sowohl was die Flora angeht als auch die Architektur
+Architektur Stile:
+- Gotik
+- Renaissance
+- Barock
+- Historismus
+- Romanik
+- Viktorianisch
+- Gründerzeit
 
-Blühende Hafen- und Handelsstadt
+Blühende Hafen- und Handelsstadt. Blühend zweideutig:
+- mitten im Frühling, voll von Blumen, blühenden Bäumen und Parkanlagen
+- sehr belebt, florierender Handel, sehr vielfältige Bevölkerung
 
-Blühend im wahrsten Sinne des Wortes (mitten im Frühling, voll von Blumen und blühenden Bäumen, sehr grün)
 ![[Moodboard_Fildes.png]]
 ## Info
 - Sitz des [[Königshaus Malyrad]]

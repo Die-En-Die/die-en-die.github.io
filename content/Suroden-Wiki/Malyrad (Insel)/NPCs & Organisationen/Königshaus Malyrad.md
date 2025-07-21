@@ -7,6 +7,7 @@ tags:
 ---
 
 ## Info
-
+- Sitz in [[Fildes (Hauptstadt von Malyrad)]]
 
 ## Mitglieder
+- 
