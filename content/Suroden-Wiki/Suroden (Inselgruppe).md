@@ -19,7 +19,7 @@ preserveAspect: true
 ```
 ````
 
-![[Map_Placeholder.png]]
+![[politisch.png]]
 ## Info
 - Inselgruppe aus 2 großen Inseln [[Malyrad (Insel)]] und [[Sarestra (Insel)]] und vielen kleineren Inseln
 - vor ca 30 Jahren: magische Kollision mit der Feywild
@@ -30,3 +30,5 @@ preserveAspect: true
 		- dazwischen Zwischenklimazonen
 - große Teile immernoch nicht wieder erkundet seit der der Kollision
 - 3 Königreiche [[Königshaus Malyrad]], [[Königshaus Yusna]] und [[Königshaus Stendo]]
+
+![[map.png]]
