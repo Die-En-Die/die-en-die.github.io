@@ -6,7 +6,7 @@ tags:
 
 ## Info
 - Name abgeleitet von "kleiner Bruder"
-- Hoheitsgebiete: [[Malyrad (Land)]] und [[Fey Hof Frühling]]
+- Hoheitsgebiete: [[Malyrad]] und [[Fey Hof des Frühlings]]
 
 ### Klima/Biome/Flora
 - zum Großteil Blühender mitteleuropäischer Frühling
@@ -14,4 +14,5 @@ tags:
 - Hartlaub und Nadelhölzer im Süden
 - Laub und Mischwälder mit weitreichenden Graslandschaften vorherrschend
 - Übergang zu Nadelwäldern im Nordosten
-- Gebirgszug im Nordwesten
+- Gebirgszug im Nordwesten sowie kleines Gebirge im Süden
+- [[Suroden (Inselgruppe)#Klima|Suroden>Klima]] 

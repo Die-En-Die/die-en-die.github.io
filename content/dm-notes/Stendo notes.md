@@ -2,8 +2,10 @@
 title: Stendo notes
 draft: "true"
 ---
-# [[Stendo (Land)]]
+# [[Stendo]]
 - 
 
-## [[Presta (Hauptstadt von Stendo)]]
-- 
+## [[Presta]]
+
+## [[Stratokratie Stendo]]
+- ehemaliger Zwergenkönig als Staatsoberhaupt

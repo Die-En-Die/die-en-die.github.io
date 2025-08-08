@@ -4,31 +4,33 @@ tags:
   - inselgruppe
 ---
 
-````
-```leaflet
-id: Suroden_Map
-image: [[Map_Placeholder.png]]
-bounds:
-    - [0, 0]
-    - [100, 100]
-unit: meters
-lat: 50
-long: 50
-defaultZoom: 2
-preserveAspect: true
-```
-````
-
-![[politisch.png]]
-## Info
-- Inselgruppe aus 2 großen Inseln [[Malyrad (Insel)]] und [[Sarestra (Insel)]] und vielen kleineren Inseln
-- vor ca 30 Jahren: magische Kollision mit der Feywild
-	- dadurch Verformung der Inselgruppe
-	- Ausprägung neuer Klimazonen (effektiv alle 4 Jahreszeiten permanent und gleichzeitig an festen Orten der Inselgruppe)
-		- [[Malyrad (Insel)]]: Frühling
-		- [[Sarestra (Insel)]]: Winter im Norden, Herbst im Nordosten, Sommer im Osten
-		- dazwischen Zwischenklimazonen
-- große Teile immernoch nicht wieder erkundet seit der der Kollision
-- 3 Königreiche [[Königshaus Malyrad]], [[Königshaus Yusna]] und [[Königshaus Stendo]]
-
 ![[map.png]]
+
+## Info
+- Inselgruppe aus 2 großen Inseln [[Malyrad (Insel)|Malyrad]] (im Westen) und [[Sarestra (Insel)|Sarestra]] (im Osten) und vielen kleineren Inseln
+- vor ca 30 Jahren: magische [[Kollision|Kollision]] mit der Feywild
+	- dadurch Verformung der Inselgruppe
+	- Ausprägung neuer [[#Klima|Klimazonen]] 
+- große Teile immernoch nicht wieder erkundet seit der der [[Kollision|Kollision]] 
+
+### Politik
+- 3 Reiche:
+	- [[Königshaus Miarona von Malyrad|Malyrad]] auf [[Malyrad (Insel)|Malyrad]] 
+	- [[Republik Yusna|Yusna]] und [[Stratokratie Stendo|Stendo]] auf [[Sarestra (Insel)|Sarestra]] 
+- früher: Königreich Suroden unter [[Königshaus Miarona von Malyrad|Königshaus Miarona von Surdoen]] 
+
+![[map_politisch.png]]
+
+### Klima
+- alle 4 Jahreszeiten permanent und gleichzeitig an festen Orten der Inselgruppe:
+	- [[Malyrad (Insel)|Malyrad]]: Frühling
+	- [[Sarestra (Insel)|Sarestra]]: Winter im Norden, Herbst im Nordosten, Sommer im Osten
+	- dazwischen Zwischenklimazonen
+
+![[map_klima.png]]
+
+|                                                                                                                                                                                                                                                                                                                                                                                                            |                                                                                                                                                                                                                                                                                                                                                                                                   |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <span style="color:#ccbfa5">█</span> Eis- & Kältewüste<br><span style="color:#bfa5b2">█</span> Tundren & subpolare Heiden<br><span style="color:#7fa58c">█</span> Boreale Nadelwälder<br><span style="color:#d8a500">█</span> Gras-, Strauch- & Trockensteppen<br><span style="color:#a5a526">█</span> Felder und Wiesenlandschaften<br><span style="color:#72b233">█</span> Gemäßigte Laub- & Mischwälder | <span style="color:#d8a58c">█</span> Hartlaubvegetation<br><span style="color:#e5b259">█</span> heiße Halbwüsten & Wüsten<br><span style="color:#c29724">█</span> Dornstrauch, Kakteen- & Trockensavannen<br><span style="color:#8c8c00">█</span> Feuchtsavannen<br><span style="color:#0099a5">█</span> Subtropische Lorbeerwälder<br><span style="color:#3f7f00">█</span> Tropische Regenwälder |
+
+

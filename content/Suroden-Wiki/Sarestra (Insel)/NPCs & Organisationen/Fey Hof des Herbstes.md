@@ -7,8 +7,10 @@ tags:
 ---
 
 ## Info
-- Rat der Baumhirten
+- Baumhirten
+- Rat mit Wahl auf Lebzeiten
 - Einziger Hof ohne festen Sitz
+	- Frei in den Wäldern von [[Stendo]] 
 
 ## Mitglieder
-- 
+- ...

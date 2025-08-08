@@ -1,5 +1,5 @@
 ---
-title: Fey Hof Winter
+title: Fey Hof Sommer
 tags:
   - organisation
   - regierung
@@ -7,7 +7,8 @@ tags:
 ---
 
 ## Info
-- 
+- absolute Erbmonarchie
+- Sitz in [[Rucika]]
 
 ## Mitglieder
-- 
+- ...

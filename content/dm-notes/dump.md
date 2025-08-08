@@ -185,6 +185,14 @@ Zwergenberg "großer Bruder" (unteriridischer Berg "kleiner Bruder")
 
   Leben relativ zurückgezogen? Großer einmarsch auf hochzeit = Überraschung
 
+
+Tavernen:
+- zum trunkenen Seemann
+	- auf einer Klippe
+	- schwankt mit der Bewegung der Gäste
+	- Inhaber laufen immer hin und her um die Schwankung auszugleichen
+- 
+
   
   
 

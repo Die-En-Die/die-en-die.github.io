@@ -3,29 +3,29 @@ title: "sortierte Notizen"
 draft: "true"
 ---
 
-- [[#[[Malyrad (Land)]]|[[Malyrad (Land)]]]]
-	- [[#[[Malyrad (Land)]]#[[Fildes (Hauptstadt von Malyrad)]]|[[Fildes (Hauptstadt von Malyrad)]]]]
-- [[#[[Fey Hof Frühling]]|[[Fey Hof Frühling]]]]
-- [[#[[Stendo (Land)]]|[[Stendo (Land)]]]]
-	- [[#[[Stendo (Land)]]#[[Presta (Hauptstadt von Stendo)]]|[[Presta (Hauptstadt von Stendo)]]]]
-- [[#[[Yusna (Land)]]|[[Yusna (Land)]]]]
-	- [[#[[Yusna (Land)]]#[[Rucika (Hauptstadt von Yusna)]]|[[Rucika (Hauptstadt von Yusna)]]]]
+- [[#[[Malyrad]]|[[Malyrad]]]]
+	- [[#[[Malyrad]]#[[Fildes]]|[[Fildes]]]]
+- [[#[[Fey Hof des Frühlings]]|[[Fey Hof des Frühlings]]]]
+- [[#[[Stendo]]|[[Stendo]]]]
+	- [[#[[Stendo]]#[[Presta]]|[[Presta]]]]
+- [[#[[Yusna]]|[[Yusna]]]]
+	- [[#[[Yusna]]#[[Rucika]]|[[Rucika]]]]
 
 
 # [[Malyrad (Insel)]]
 
-## [[Malyrad (Land)]]
+## [[Malyrad]]
 
-### [[Fildes (Hauptstadt von Malyrad)]]
+### [[Fildes]]
 
-## [[Fey Hof Frühling]]
+## [[Fey Hof des Frühlings]]
 
 # [[Sarestra (Insel)]]
 
-## [[Stendo (Land)]]
+## [[Stendo]]
 
-### [[Presta (Hauptstadt von Stendo)]]
+### [[Presta]]
 
-## [[Yusna (Land)]]
+## [[Yusna]]
 
-### [[Rucika (Hauptstadt von Yusna)]]
+### [[Rucika]]

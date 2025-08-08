@@ -22,5 +22,5 @@ Blühende Hafen- und Handelsstadt. Blühend zweideutig:
 
 ![[Moodboard_Fildes.png]]
 ## Info
-- Sitz des [[Königshaus Malyrad]]
-- Sitz des [[Fey Hof Frühling]]
+- Sitz des [[Königshaus Miarona von Malyrad]]
+- Sitz des [[Fey Hof des Frühlings]]
