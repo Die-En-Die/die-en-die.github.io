@@ -1,5 +1,5 @@
 ---
-title: Malyrad (Land)
+title: Malyrad
 tags:
   - land
   - region

@@ -1,5 +1,5 @@
 ---
-title: Königshaus Malyrad
+title: Königshaus Miarona von Malyrad
 tags:
   - regierung
   - organisation
