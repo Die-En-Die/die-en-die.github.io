@@ -1,5 +1,5 @@
 ---
-title: Königshaus Stendo
+title: Stratokratie Stendo
 tags:
   - organisation
   - regierung

@@ -1,5 +1,5 @@
 ---
-title: Magieakademie
+title: Kopalkije's Akademie der Arkanen Künste
 tags:
   - organisation
 ---

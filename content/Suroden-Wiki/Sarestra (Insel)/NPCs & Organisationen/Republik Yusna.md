@@ -1,5 +1,5 @@
 ---
-title: Königshaus Yusna
+title: Republik Yusna
 tags:
   - organisation
   - regierung

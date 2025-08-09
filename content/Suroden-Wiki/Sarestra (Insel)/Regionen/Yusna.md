@@ -1,5 +1,5 @@
 ---
-title: Yusna (Land)
+title: Yusna
 tags:
   - land
   - region

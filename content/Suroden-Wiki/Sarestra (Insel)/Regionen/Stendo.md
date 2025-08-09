@@ -1,5 +1,5 @@
 ---
-title: Stendo (Land)
+title: Stendo
 tags:
   - land
   - region

@@ -1,3 +1,10 @@
+---
+title: Safety Tools
+tags:
+  - safetytools
+  - übersicht
+---
+
 
 >[!note] Index
 >- [[#Allgemein]]
