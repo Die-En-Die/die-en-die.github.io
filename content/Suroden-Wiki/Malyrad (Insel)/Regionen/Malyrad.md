@@ -17,3 +17,8 @@ tags:
 ### Lage
 - erstreckt sich über die gesamte Fläche der gleichnamigen Insel [[Malyrad (Insel)|Malyrad]] 
 - einige kleinere Inseln in direkter Umgebung
+
+
+## Points of Interest
+
+## Events

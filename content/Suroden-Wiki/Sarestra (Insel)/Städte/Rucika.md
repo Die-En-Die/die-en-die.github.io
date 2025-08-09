@@ -29,8 +29,8 @@ tags:
 - zentral in der Onstran Wüste
 - ca ~36km Flussaufwärts der Flussmündung
 
-## Points of Interest
+### Points of Interest
 - Regierungsgebäude [[Republik Yusna]] 
 - Palast [[Fey Hof des Sommers]] 
 
-## Events
+### Events

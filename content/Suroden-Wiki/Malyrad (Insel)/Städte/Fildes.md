@@ -1,5 +1,5 @@
 ---
-title: Fildes (Hauptstadt von Malyrad)
+title: Fildes
 tags:
   - stadt
   - hauptstadt
@@ -22,5 +22,19 @@ Blühende Hafen- und Handelsstadt. Blühend zweideutig:
 
 ![[Moodboard_Fildes.png]]
 ## Info
-- Sitz des [[Königshaus Miarona von Malyrad]]
-- Sitz des [[Fey Hof des Frühlings]]
+- Sitz des [[Königshaus Miarona von Malyrad]] 
+- Sitz des [[Fey Hof des Frühlings]] 
+
+### Klima/Biome/Flora
+- gemäßigtes Klima
+- Mischwald, Blumenwiesen und Felder
+
+### Lage
+- Südküste der großen Bucht von Malyrad
+- an der Mündung des Flusses Lacrimago
+
+## Points of Interest
+- 
+
+## Events
+- 

@@ -15,8 +15,8 @@ tags:
 - Südöstliche Küste von [[Malyrad (Insel)|Malyrad]] 
 - gehört zum [[Malyrad|Königreich von Malyrad]] 
 
-## Points of Interest
+### Points of Interest
 - Sommerpalast "Vescovado di Miarona" der [[Königshaus Miarona von Malyrad|Königsfamilie Miarona]] 
 
-## Events
+### Events
 - [[Königshochzeit]] 

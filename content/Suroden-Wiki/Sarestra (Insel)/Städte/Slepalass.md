@@ -18,8 +18,8 @@ tags:
 ### Lage
 - nördlichste Spitze [[Sarestra (Insel)|Sarestras]] 
 
-## Points of Interest
+### Points of Interest
 - 
 
-## Events
+### Events
 -  

@@ -4,9 +4,6 @@ tags:
   - region
 ---
 
-## Stil
-- ...
-
 ## Info
 - Heimat von [[Kopalkije's Akademie der Arkanen Künste]] 
 - Vulkanische Inselgruppe
@@ -22,8 +19,8 @@ tags:
 - Inselgruppe im Norden [[Sarestra (Insel)|Sirestras]] 
 - gilt als neutraler Boden
 
-## Points of Interest
-- 
+### Points of Interest
+- [[Kopalkije's Akademie der Arkanen Künste]] 
 
-## Events
+### Events
 - [[große Friedensverhandlung]] 

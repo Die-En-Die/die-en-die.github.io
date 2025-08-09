@@ -28,8 +28,8 @@ tags:
 - 2/3 östlich im Gebirge der Dolgeben
 - nördlich des Kamms und damit auf der feuchten und kalten Seite der Dolgeben
 
-## Points of Interest
+### Points of Interest
 - 
 
-## Events
+### Events
 - 
