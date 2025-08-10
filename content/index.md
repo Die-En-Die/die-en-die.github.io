@@ -33,7 +33,7 @@ Einstieg ins Wiki:
 	- Excel für Inventartracking
 
 Mehr Charakterbögen (ihr könnt natürlich auch jede andere Art des Trackings nutzen):
-- [Charakterbögen 2024](https://www.dnddeutsch.de/charakterboegen/#dnd5_2024) 
+- [Charakterbögen deutsch](https://www.dnddeutsch.de/charakterboegen/) 
 - [Charakter Sheet 2024 (en)](https://media.dndbeyond.com/compendium-images/free-rules/ph/character-sheet.pdf) 
 
 [Discord-Server](https://discord.gg/WT434N2H) 

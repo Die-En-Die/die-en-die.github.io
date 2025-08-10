@@ -33,3 +33,6 @@ Spezies:
 | Item | Anzahl |
 | ---- | ------ |
 |      |        |
+
+NPC "Eindringling" der sie ganz offensichtlich kennt, sie ihn aber nicht.
+Whispers im Ohr "Ich kann dir helfen herauszufinden wer du wirklich bist"
