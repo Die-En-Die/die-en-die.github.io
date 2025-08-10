@@ -4,20 +4,21 @@
 Wenn Ihr Ideen/Wünsche zu denen Ihr nichts findet meldet euch, dann schauen wir gemeinsam wie wir das umgesetzt bekommen was ihr euch vorstellt.
 Falls ihr Species/(Sub-)Klassen/Hintergründe spielen möchtet, die nicht im Spielerhandbuch stehen (oder Sachen aus den 2014er Regeln) muss man die leicht anpassen. Sagt dann einfach kurz Bescheid und schickt es mir zu dann machen wir das. An Spezies passt eigentlich alles sehr gut in die Welt und durch die Kollision mit der Feywild sind auch Fey Wesen nicht selten.
 
-[Übersicht Spezies aus den Erweiterungen](https://www.dndbeyond.com/species) 
-[Klassenübersicht](https://www.dndbeyond.com/classes) 
-[Übersicht über Hintergründe](https://www.dndbeyond.com/backgrounds) 
+- [Übersicht Spezies aus den Erweiterungen](https://www.dndbeyond.com/species) 
+- [Klassenübersicht](https://www.dndbeyond.com/classes) 
+- [Übersicht über Hintergründe](https://www.dndbeyond.com/backgrounds) 
 
-[alternative Übersicht über viele Sachen](https://dnd5e.wikidot.com/) 
+- [alternative Übersicht über viele Sachen](https://dnd5e.wikidot.com/) 
 
 Wenn ihr euch einen Charakter ausgedacht habt, füllt bitte einen Charakterbogen eurer Wahl aus. Unten hab ich euch ein paar verlinkt. Bitte beantwortet mir auch noch die Fragen unten, dann kann ich den Verlauf der Geschichte besser an eure Charaktere anpassen und ihr lernt eure Charaktere gleichzeitig noch besser kennen ;)
 
-[Charakterbögen deutsch](https://www.dnddeutsch.de/charakterboegen/) 
-[Charakter Sheet 2024 (en)](https://media.dndbeyond.com/compendium-images/free-rules/ph/character-sheet.pdf) 
+- [Charakterbögen deutsch](https://www.dnddeutsch.de/charakterboegen/) 
+- [Charakter Sheet 2024 (en)](https://media.dndbeyond.com/compendium-images/free-rules/ph/character-sheet.pdf) 
 
 ## Fragebogen
 
 [Word-Dokument als Download](https://docs.google.com/document/d/16UUb24n25e6-11HKrYCNXoeYkQGLsGXG/edit?usp=drive_link&ouid=109227921595467476361&rtpof=true&sd=true) 
+
 Die grauen Fragen sind optionale Fragen die ihr beantworten könnt wenn ihr möchtet.
 
 1. Hat der Name deines Charakters eine Bedeutung?
