@@ -17,10 +17,11 @@ Wenn ihr euch einen Charakter ausgedacht habt, füllt bitte einen Charakterbogen
 
 ## Fragebogen
 
+[Word-Dokument als Download](https://docs.google.com/document/d/16UUb24n25e6-11HKrYCNXoeYkQGLsGXG/edit?usp=drive_link&ouid=109227921595467476361&rtpof=true&sd=true) 
 Die grauen Fragen sind optionale Fragen die ihr beantworten könnt wenn ihr möchtet.
 
 1. Hat der Name deines Charakters eine Bedeutung?
-2. Ist dein Charakter alt genug um die [[Kollision]] vor 30 Jahren miterlebt zu haben? Falls ja wie erinnert er/sie sich daran?
+2. Ist dein Charakter alt genug um die [[Kollision]] vor ca. 30 Jahren miterlebt zu haben? Falls ja wie erinnert er/sie sich daran?
 3. Die Kampagne startet auf der [[Königshochzeit]]. Wie und warum ist dein Charakter auf der Hochzeit?
 4. Was sind die Ideale an denen dein Charakter festhält?
 5. Welche Makel oder Laster hat dein Charakter?
