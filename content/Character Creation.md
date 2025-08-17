@@ -14,6 +14,7 @@ Wenn ihr euch einen Charakter ausgedacht habt, füllt bitte einen Charakterbogen
 
 - [Charakterbögen deutsch](https://www.dnddeutsch.de/charakterboegen/) 
 - [Charakter Sheet 2024 (en)](https://media.dndbeyond.com/compendium-images/free-rules/ph/character-sheet.pdf) 
+- [digitale Mini zum selber erstellen](https://www.heroforge.com/) 
 
 ## Fragebogen
 
