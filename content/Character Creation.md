@@ -37,10 +37,10 @@ Die grauen Fragen sind optionale Fragen die ihr beantworten könnt wenn ihr möc
 13. <span style="color:#919191">Wofür möchte dein Charakter in Erinnerung bleiben wenn er/sie stirbt?</span>
 14. <span style="color:#919191">Wie erhofft sich dein Charakter das Jenseits?</span>
 15. Wie würde die persönliche Hölle deines Charakters aussehen?
-16. Gibt es etwas für das dein Charakter seine Seele verkaufen würde?
+16. Gibt es etwas für das dein Charakter seine/ihre Seele verkaufen würde?
 17. <span style="color:#919191">Was respektiert dein Charakter am meisten in anderen?</span>
 18. <span style="color:#919191">Was rechtfertigt das Töten für deinen Charakter?</span>
-19. Wenn dein Charakter eine Todsünde wäre, welche wäre er? (Hochmut, Habgier, Wollust, Jähzorn, Völlerei, Eifersucht, Faulheit)
+19. Wenn dein Charakter eine Todsünde wäre, welche wäre er? (Hochmut, Habgier, Wollust, Jähzorn, Völlerei, Eifersucht, Trägheit)
 20. <span style="color:#919191">Hat dein Charakter Routinen oder Rituale?</span>
 21. <span style="color:#919191">Hat dein Charakter ein Talent, dass er/sie vor anderen verbirgt?</span>
 22. <span style="color:#919191">Hat dein Charakter Narben und/oder Tattoos? Wenn ja welche und was ist die Geschichte dahinter?</span>
