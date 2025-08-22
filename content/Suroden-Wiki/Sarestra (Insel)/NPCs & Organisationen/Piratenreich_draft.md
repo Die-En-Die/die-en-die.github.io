@@ -1,5 +1,5 @@
 ---
-title: Piraten
+title: Piratenreich
 tags:
   - organisation
 draft: "true"

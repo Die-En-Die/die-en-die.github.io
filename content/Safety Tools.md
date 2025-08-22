@@ -39,6 +39,7 @@ Unter Sonstiges sind Themen die mit Vorsicht zu behandeln sind und potenziell im
 - Misshandlung und Tod von Tieren
 - sexuelle Misshandlung von Kindern
 - Vergewaltigung
+- Suizid
 
 #### Schleier
 - Körperteilverluste
@@ -49,7 +50,6 @@ Unter Sonstiges sind Themen die mit Vorsicht zu behandeln sind und potenziell im
 - trypophobische Trigger (Dinge mit Löchern)
 
 #### Sonstiges
-- Suizid
 - Selbstverletzung
 - Insekten o.ä.
 

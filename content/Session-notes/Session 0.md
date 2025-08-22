@@ -30,3 +30,16 @@ Kämpfen mit Map oder ohne
 
 
 Name Trex
+
+
+erste Session
+
+
+ganz kleine Vorstellungsrunde
+
+
+Gruppenzusammensetzung
+- Bardin
+- Druide
+- Diebin
+- Warlock
