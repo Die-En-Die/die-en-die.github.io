@@ -29,3 +29,7 @@ draft: "true"
 ## [[Yusna]]
 
 ### [[Rucika]]
+
+# BBEG
+Amari's Patron arbeitet mit BBEG zusammen
+Kommandant über Geisterpiraten von Purr

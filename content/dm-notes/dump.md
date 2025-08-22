@@ -2,7 +2,7 @@
 title: "dump"
 draft: "true"
 ---
-[https://youtube.com/shorts/HYk-Ezi6Hcw?si=_IjBrRDYNNuAM8cR](https://youtube.com/shorts/HYk-Ezi6Hcw?si=_IjBrRDYNNuAM8cR) Stadt aus Mimics
+[Stadt aus Mimics](https://youtube.com/shorts/HYk-Ezi6Hcw?si=_IjBrRDYNNuAM8cR) 
 
 [https://youtube.com/shorts/-sfEhXIhlX0?si=dfy6KX1Db4EoeiVf](https://youtube.com/shorts/-sfEhXIhlX0?si=dfy6KX1Db4EoeiVf) npc namen
 
@@ -147,11 +147,9 @@ Täglich Grüßt das Murmeltier Quest (Supernatural Trickster)
 Wild Hunt
 
 
-Drache als Bibliothekarin
+Drache bzw Bücherwurm
 
-  - verkleidet als Mensch
-
-  - Wissen als Hoard
+  - sammelt Bücher
 
 
 Wald voller Bäume mit Augen

@@ -28,3 +28,8 @@ Mehr Charakterbögen (ihr könnt natürlich auch jede andere Art des Trackings n
 [Discord-Server](https://discord.gg/WT434N2H) 
 
 [[Safety Tools]] 
+
+# Umrechnungen
+1 Meile = 1,5 km (Meile * 1,5 = km)
+5 Fuß = 1,5 m (Fuß * 0,3 = m)
+1 Pfund = 0,5 kg (Pfund * 0,5 = kg)
