@@ -8,6 +8,7 @@ tags:
 | ----- | ------------------- |
 | Datum | 07.12.-1 - 28.13.-1 |
 | Ort   | [[Kovagie]]         |
+
 49 Tägige Verhandlung über die Regierungssituation von [[Suroden (Inselgruppe)|Suroden]].
 
 ## Beteiligte Parteien:

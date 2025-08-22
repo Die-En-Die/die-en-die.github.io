@@ -1,3 +1,8 @@
+---
+title: "{{title}}"
+tags:
+  - tools
+---
 
 [DND Beyond Charaktererstellung](https://www.dndbeyond.com/sources/dnd/phb-2024/creating-a-character) auf Englisch. Die Seitenübersetzung in Firefox funktioniert recht gut, andere Browser hab ich nicht probiert. Ich mache euch aber auch gern Bilder aus dem Deutschen Buch wenn ihr etwas braucht. Ihr müsst nur Bescheid geben.
 

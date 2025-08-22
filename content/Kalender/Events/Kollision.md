@@ -8,6 +8,7 @@ tags:
 | ----- | ---------------------------------------- |
 | Datum | unbekannt; ~13.10.-2; vor bald 30 Jahren |
 | Ort   | unbekannt                                |
+
 - Ursache: Ritual eines Unbekannten Magiers/Zauberers
 - vermutetes Ziel: mehr Arkane Kraft
 - Resultat:
