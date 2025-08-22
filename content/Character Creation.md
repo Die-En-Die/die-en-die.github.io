@@ -1,5 +1,5 @@
 ---
-title: "{{title}}"
+title: Character Creation
 tags:
   - tools
 ---
