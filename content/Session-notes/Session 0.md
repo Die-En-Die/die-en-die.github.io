@@ -1,6 +1,5 @@
 ---
 title: Session 0
-draft: "true"
 tags:
   - session
 ---
@@ -12,7 +11,7 @@ tags:
 - Valene: Warlock
 
 ## Safe Space
-- Tabuthemen durchsprechen
+- [[Safety Tools|Tabuthemen]]
 - Pausen Keyword
 - Stopps Keyword/Safeword
 
@@ -46,17 +45,14 @@ tags:
 
 ## Orga ingame
 ### Multiclassing
-- alle gleichzeitig
-	- wollen überhaupt alle multiclassen?
-- jeder wie er möchte
+- spontan
 
 ### Tracking Gewicht
-- Vorschlag:
-	- max. Gewicht von Taschen ignorieren
-	- nur nach max. Tragegewicht gehen
+- max. Gewicht von Taschen ignorieren
+- nur nach max. Tragegewicht gehen
 
-### Munition
-- 
+### Munition/Spell components
+- kein Tracking
 
 ### Map usage
 - in Kämpfen
@@ -68,6 +64,6 @@ tags:
 
 ## Scheduling
 - alle 2-3 Wochen nach Möglichkeit
-	- ich als einziger ohne Wochenendarbeit
-- wann erste Session
-	- 1,5-2 Wochen nach Charakterdeadline
+	- am ende der Session 1-2 Sessions vorrausplanen
+- erste Session
+	- 14.09. 13:00 Uhr

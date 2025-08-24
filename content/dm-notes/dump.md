@@ -6,6 +6,11 @@ draft: "true"
 
 [https://youtube.com/shorts/-sfEhXIhlX0?si=dfy6KX1Db4EoeiVf](https://youtube.com/shorts/-sfEhXIhlX0?si=dfy6KX1Db4EoeiVf) npc namen
 
+
+Inspiration:
+- https://www.instagram.com/dndspeak
+- https://www.instagram.com/starlightsorcerer
+- https://osrvault.com/
   
 
 Valene, Trex, Lisa, Felix - beginn ende juni
