@@ -25,7 +25,7 @@ Mehr Charakterbögen (ihr könnt natürlich auch jede andere Art des Trackings n
 - [Charakterbögen deutsch](https://www.dnddeutsch.de/charakterboegen/) 
 - [Charakter Sheet 2024 (en)](https://media.dndbeyond.com/compendium-images/free-rules/ph/character-sheet.pdf) 
 
-[Discord-Server](https://discord.gg/WT434N2H) 
+[Discord-Server](https://discord.gg/Za5G98uSU6) 
 
 [[Safety Tools]] 
 

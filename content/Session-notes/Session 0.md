@@ -5,41 +5,69 @@ tags:
   - session
 ---
 
+## Vorstellung
+- Felix: Druide
+- Lisa: Bardin
+- Annie (Trex): Rogue
+- Valene: Warlock
+
 ## Safe Space
+- Tabuthemen durchsprechen
 - Pausen Keyword
 - Stopps Keyword/Safeword
-- Tabuthemen durchsprechen
 
+## Dinge die euch nervös machen
+- mögliche Out-Of-Character Konflikte
+	- Communication is key
+	- redet miteinander und redet mit mir falls es notwendig ist
+- Metagaming
+	- Notizen nur aufschreiben was der eigene Charakter weiß
+- Regeln
+	- to err is human
+- Rollenspielfähigkeiten
+	- wir sind nicht professionell
+	- probiert aus mit was ihr euch wohlfühlt
+	- lachen ist gesund
+- "Platz" in der Geschichte finden
+	- ich versuche alle gleichermaßen einzubinden
+	- achtet aufeinander und unterstützt euch gegenseitig
+- Überblick über Schaden und Fähigkeiten in Kämpfen
+	- ich versuche euch ein Heads-Up zu geben, wenn ihr als nächstes dran seid
+	- nehmt euch die Zeit die ihr braucht
+- Dinge zu "vermasseln"
+	- Spaß > Perfektion
+	- fails können zu lustigen/interessanten Situationen führen
+- nicht hilfreich für die Gruppe zu sein
+	- live and learn
 
-Multiclassing
+## Tools
+- Owlbear Rodeo
+- Discord
 
+## Orga ingame
+### Multiclassing
+- alle gleichzeitig
+	- wollen überhaupt alle multiclassen?
+- jeder wie er möchte
 
+### Tracking Gewicht
+- Vorschlag:
+	- max. Gewicht von Taschen ignorieren
+	- nur nach max. Tragegewicht gehen
 
-5px ~ 1km
-25px ~ 5km
-50px ~ 10km
+### Munition
+- 
 
+### Map usage
+- in Kämpfen
+- Städtemaps
+- Weltmap
+	- 5px ~ 1km
+	- 25px ~ 5km
+	- 50px ~ 10km
 
-Tracking Gewicht
-
-
-Metagaming Notizen nur aufschreiben was der eigene Charakter weiß
-
-
-Kämpfen mit Map oder ohne
-
-
-Name Trex
-
-
-erste Session
-
-
-ganz kleine Vorstellungsrunde
-
-
-Gruppenzusammensetzung
-- Bardin
-- Druide
-- Diebin
-- Warlock
+## Scheduling
+- alle 2-3 Wochen nach Möglichkeit
+	- ich als einziger ohne Wochenendarbeit
+- wann erste Session
+	- 1,5-2 Wochen nach Charakterdeadline

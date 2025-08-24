@@ -3,7 +3,7 @@ title: "sortierte Notizen"
 draft: "true"
 ---
 
-- [[#[[Malyrad]]|[[Malyrad]]]]
+- [[#Malyrad]]
 	- [[#[[Malyrad]]#[[Fildes]]|[[Fildes]]]]
 - [[#[[Fey Hof des Frühlings]]|[[Fey Hof des Frühlings]]]]
 - [[#[[Stendo]]|[[Stendo]]]]

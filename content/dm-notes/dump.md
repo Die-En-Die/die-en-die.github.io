@@ -174,6 +174,24 @@ Bodyswap "episode"
 Posession: Insight gegen sich selbst, würfeln für Klarheit gegen Posession
 
 
+weeping angel
+
+
+dr who listen
+- Whats that in the mirror?
+- In the corner of your eye?
+- Whats that footstep following?
+- But never passing by?
+- Perhaps the lot is waiting,
+- Perhaps when we're all dead.
+- Out they'll come a slithering,
+- From underneath your bed.
+
+
+Tod als "Auftraggeber" um Wiederbelebten zurückzubringen
+
+
+
 Zwergenessen = Chance zu vergiften. Saving Throw ausrechnen dass für zwergen 99% chance besteht zu bestehen
 
 
