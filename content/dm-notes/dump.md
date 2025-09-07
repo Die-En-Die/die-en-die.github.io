@@ -43,7 +43,7 @@ Character sheet + paar Fragen:
 
 
 
-Eibheiratende person = hinterbliebene von ritualzauberer, der die welt mit der feywild kollidiert hat, will geliebte(n) zurückhohlen
+Einheiratende person = hinterbliebene von ritualzauberer, der die welt mit der feywild kollidiert hat, will geliebte(n) zurückhohlen
 
 magiergilde will verhindern
 

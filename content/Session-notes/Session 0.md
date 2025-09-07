@@ -53,6 +53,7 @@ tags:
 
 ### Munition/Spell components
 - kein Tracking
+- Spell components nur die mit Goldwert
 
 ### Map usage
 - in Kämpfen

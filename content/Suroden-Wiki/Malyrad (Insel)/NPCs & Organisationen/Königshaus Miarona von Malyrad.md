@@ -21,11 +21,11 @@ tags:
 	- Neuverteilung der Reiche (Reich Suroden wurde zu Bund Suroden mit den drei Reichen)
 - † Königin Eleonora
 	- Mensch
-- Braut Tylnma [[Zaubererhaus Iliyee|Iliyee]]
+- Braut Talynma [[Zaubererhaus Iliyee|Iliyee]]
 	- aus einer einflussreichen Zaubererfamilie
 - Kronprinzessin Arialdre
 - Prinzenzwillinge Fisnes und Ferabrar
 - Altkönig Baelvar
 	- ehemaliger König von ganz Suroden
-	- Abdankung nach der Kollision und Übergabe an seinen Sohn
+	- Abdankung nach der [[Kollision]] und Übergabe an seinen Sohn
 - Altkönigin Amaora
