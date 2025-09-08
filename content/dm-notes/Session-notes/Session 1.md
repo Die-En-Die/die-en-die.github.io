@@ -5,13 +5,16 @@ tags:
   - session
 ---
 ## Characters
-
+- [[Amari Ranná Rosa]] 
+- [[Mrs. Purr Flab]] 
+- [[Nexori (Carnage)]] 
+- [[Vogal 'Hideaid' Veomelo]] 
 
 ## current Threads
 
 
 ## Things that Party should know
-- plotadvancments
+- plot advancements
 
 ## NPCs
 - link
