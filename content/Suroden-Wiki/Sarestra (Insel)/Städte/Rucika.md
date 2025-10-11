@@ -7,15 +7,15 @@ tags:
 
 ## Stil
 - durch einen Fluss geteilt, zwei Paläste gegenüberstehend
-	- Regierungsgebäude [[Republik Yusna]] 
-	- Palast [[Fey Hof des Sommers]] 
+	- Regierungsgebäude [[Suroden-Wiki/Sarestra (Insel)/NPCs & Organisationen/Republik Yusna]] 
+	- Palast [[Suroden-Wiki/Sarestra (Insel)/NPCs & Organisationen/Fey Hof des Sommers]] 
 - eine bunte Handelsstadt um die 2 Paläste
 
 ![[Moodboard_Rucika.png]]
 
 ## Info
-- Sitz der Regierung der [[Republik Yusna]] 
-- Sitz des [[Fey Hof des Sommers]] 
+- Sitz der Regierung der [[Suroden-Wiki/Sarestra (Insel)/NPCs & Organisationen/Republik Yusna]] 
+- Sitz des [[Suroden-Wiki/Sarestra (Insel)/NPCs & Organisationen/Fey Hof des Sommers]] 
 - "Stadt der Kulinarik", bekannt für seine
 	- Märkte
 	- Street Food
@@ -30,7 +30,7 @@ tags:
 - ca ~36km Flussaufwärts der Flussmündung
 
 ### Points of Interest
-- Regierungsgebäude [[Republik Yusna]] 
-- Palast [[Fey Hof des Sommers]] 
+- Regierungsgebäude [[Suroden-Wiki/Sarestra (Insel)/NPCs & Organisationen/Republik Yusna]] 
+- Palast [[Suroden-Wiki/Sarestra (Insel)/NPCs & Organisationen/Fey Hof des Sommers]] 
 
 ### Events

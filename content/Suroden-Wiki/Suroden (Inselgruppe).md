@@ -7,7 +7,7 @@ tags:
 ![[map.png]]
 
 ## Info
-- Inselgruppe aus 2 großen Inseln [[Malyrad (Insel)|Malyrad]] (im Westen) und [[Sarestra (Insel)|Sarestra]] (im Osten) und vielen kleineren Inseln
+- Inselgruppe aus 2 großen Inseln [[Suroden-Wiki/Malyrad (Insel)/Malyrad (Insel)|Malyrad]] (im Westen) und [[Suroden-Wiki/Sarestra (Insel)/Sarestra (Insel)|Sarestra]] (im Osten) und vielen kleineren Inseln
 - vor ca 30 Jahren: magische [[Kollision|Kollision]] mit der Feywild
 	- dadurch Verformung der Inselgruppe
 	- Ausprägung neuer [[#Klima|Klimazonen]] 
@@ -15,16 +15,16 @@ tags:
 
 ### Politik
 - 3 Reiche:
-	- [[Königshaus Miarona von Malyrad|Malyrad]] auf [[Malyrad (Insel)|Malyrad]] 
-	- [[Republik Yusna|Yusna]] und [[Stratokratie Stendo|Stendo]] auf [[Sarestra (Insel)|Sarestra]] 
-- früher: Königreich Suroden unter [[Königshaus Miarona von Malyrad|Königshaus Miarona von Surdoen]] 
+	- [[Suroden-Wiki/Malyrad (Insel)/NPCs & Organisationen/Königshaus Miarona von Malyrad|Malyrad]] auf [[Suroden-Wiki/Malyrad (Insel)/Malyrad (Insel)|Malyrad]] 
+	- [[Suroden-Wiki/Sarestra (Insel)/NPCs & Organisationen/Republik Yusna|Yusna]] und [[Suroden-Wiki/Sarestra (Insel)/NPCs & Organisationen/Stratokratie Stendo|Stendo]] auf [[Suroden-Wiki/Sarestra (Insel)/Sarestra (Insel)|Sarestra]] 
+- früher: Königreich Suroden unter [[Suroden-Wiki/Malyrad (Insel)/NPCs & Organisationen/Königshaus Miarona von Malyrad|Königshaus Miarona von Surdoen]] 
 
 ![[map_politisch.png]]
 
 ### Klima
 - alle 4 Jahreszeiten permanent und gleichzeitig an festen Orten der Inselgruppe:
-	- [[Malyrad (Insel)|Malyrad]]: Frühling
-	- [[Sarestra (Insel)|Sarestra]]: Winter im Norden, Herbst im Nordosten, Sommer im Osten
+	- [[Suroden-Wiki/Malyrad (Insel)/Malyrad (Insel)|Malyrad]]: Frühling
+	- [[Suroden-Wiki/Sarestra (Insel)/Sarestra (Insel)|Sarestra]]: Winter im Norden, Herbst im Nordosten, Sommer im Osten
 	- dazwischen Zwischenklimazonen
 
 ![[map_klima.png]]

@@ -7,10 +7,10 @@ tags:
 ---
 
 ## Info
-- Sitz in [[Fildes|Fildes]] 
+- Sitz in [[Suroden-Wiki/Malyrad (Insel)/Städte/Fildes|Fildes]] 
 - konstitutionelle Erbmonarchie
 - Elfenfamilie mit angeheirateter menschlichen Königin und dadurch halbelfischen Thronfolgern
-- ursprünglich Königshaus Miarona von [[Suroden (Inselgruppe)|Suroden]] 
+- ursprünglich Königshaus Miarona von [[Suroden-Wiki/Suroden (Inselgruppe)|Suroden]] 
 
 ## Mitglieder
 
@@ -21,7 +21,7 @@ tags:
 	- Neuverteilung der Reiche (Reich Suroden wurde zu Bund Suroden mit den drei Reichen)
 - † Königin Eleonora
 	- Mensch
-- Braut Talynma [[Zaubererhaus Iliyee|Iliyee]]
+- Braut Talynma [[Suroden-Wiki/Malyrad (Insel)/NPCs & Organisationen/Zaubererhaus Iliyee|Iliyee]]
 	- aus einer einflussreichen Zaubererfamilie
 - Kronprinzessin Arialdre
 - Prinzenzwillinge Fisnes und Ferabrar

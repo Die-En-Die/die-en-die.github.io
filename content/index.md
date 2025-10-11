@@ -8,10 +8,10 @@ tags:
 ---
 
 Einstieg ins Wiki:
-- [[Suroden (Inselgruppe)]]
+- [[Suroden-Wiki/Suroden (Inselgruppe)]]
 - [[Kalender]]
 - [[Königshochzeit]]
-- [[Letobal]]
+- [[Suroden-Wiki/Malyrad (Insel)/Städte/Letobal]]
 
 # Tools & Links
 [DND Beyond Spielerhandbuch (englisch)](https://www.dndbeyond.com/sources/dnd/phb-2024/) 
@@ -31,5 +31,5 @@ Mehr Charakterbögen (ihr könnt natürlich auch jede andere Art des Trackings n
 
 # Umrechnungen
 1 Meile = 1,5 km (Meile * 1,5 = km)
-5 Fuß = 1,5 m (Fuß * 0,3 = m)
+5 Fuß = 1,5 m (Fuß * 0,3 = m | Fuß / 5 = Felder)
 1 Pfund = 0,5 kg (Pfund * 0,5 = kg)

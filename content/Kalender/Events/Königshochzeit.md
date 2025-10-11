@@ -7,6 +7,6 @@ tags:
 |       |              |
 | ----- | ------------ |
 | Datum | 15.August 27 |
-| Ort   | [[Letobal]]  |
+| Ort   | [[Suroden-Wiki/Malyrad (Insel)/Städte/Letobal]]  |
 
-Hochzeit zwischen Tylnma [[Zaubererhaus Iliyee|Iliyee]] und König Veralyr [[Königshaus Miarona von Malyrad|Miarona von Malyrad]].
+Hochzeit zwischen Tylnma [[Suroden-Wiki/Malyrad (Insel)/NPCs & Organisationen/Zaubererhaus Iliyee|Iliyee]] und König Veralyr [[Suroden-Wiki/Malyrad (Insel)/NPCs & Organisationen/Königshaus Miarona von Malyrad|Miarona von Malyrad]].

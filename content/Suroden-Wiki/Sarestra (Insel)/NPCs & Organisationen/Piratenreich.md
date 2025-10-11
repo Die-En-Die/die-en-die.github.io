@@ -5,7 +5,7 @@ tags:
 ---
 
 ## Info
-- Sitz auf den Inseln südlich von [[Sarestra (Insel)]] 
+- Sitz auf den Inseln südlich von [[Suroden-Wiki/Sarestra (Insel)/Sarestra (Insel)]] 
 
 ## Mitglieder
 - ...

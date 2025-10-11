@@ -6,9 +6,9 @@ tags:
 ---
 
 ## Info
-- Elfenfamilie von starken Zauberern aus [[Fildes|Fildes]] 
+- Elfenfamilie von starken Zauberern aus [[Suroden-Wiki/Malyrad (Insel)/Städte/Fildes|Fildes]] 
 
 ## Mitglieder
 - ...
 - Tylnma
-	- [[Königshochzeit]] mit Veralyr [[Königshaus Miarona von Malyrad|Miarona von Malyrad]] 
+	- [[Königshochzeit]] mit Veralyr [[Suroden-Wiki/Malyrad (Insel)/NPCs & Organisationen/Königshaus Miarona von Malyrad|Miarona von Malyrad]] 

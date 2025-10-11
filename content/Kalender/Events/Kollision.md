@@ -13,4 +13,4 @@ tags:
 - vermutetes Ziel: mehr Arkane Kraft
 - Resultat:
 	- Kollision der Welt mit der Feywild
-	- permanente, ortsgebundene Jahreszeiten (siehe [[Suroden (Inselgruppe)#Klima|Suroden>Klima]])
+	- permanente, ortsgebundene Jahreszeiten (siehe [[Suroden-Wiki/Suroden (Inselgruppe)#Klima|Suroden>Klima]])

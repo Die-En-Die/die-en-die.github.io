@@ -8,7 +8,7 @@ tags:
 - nordisch
 
 ## Info
-- Sitz des [[Fey Hof des Winters]] 
+- Sitz des [[Suroden-Wiki/Sarestra (Insel)/NPCs & Organisationen/Fey Hof des Winters]] 
 
 ### Klima/Biome/Flora
 - Permafrost
@@ -16,7 +16,7 @@ tags:
 - permanent gefrorener Ozean
 
 ### Lage
-- nördlichste Spitze [[Sarestra (Insel)|Sarestras]] 
+- nördlichste Spitze [[Suroden-Wiki/Sarestra (Insel)/Sarestra (Insel)|Sarestras]] 
 
 ### Points of Interest
 - 

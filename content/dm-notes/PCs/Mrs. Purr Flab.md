@@ -72,6 +72,9 @@ tags:
 	- Symbol: Krähe mit 5 Augen, gespreizten Flügeln und dem Kopf unter den linken Flügen gesteckt ([[Aerak Archfey der Gerechtigkeit]])
 - Diebesorganisation
 	- ?
+- https://forgottenrealms.fandom.com/wiki/Valkur
+	- Gott der Seefahrer
+	- glaubt nicht mehr an ihn wegen dem Überfall
 
 ### Fragebogen
 1. Hat der Name deines Charakters eine Bedeutung?

@@ -17,4 +17,4 @@ Beginn: Zeitpunkt der [[Kollision]]; Unbekannt; ca. Mitte 10.-2
 Ende: Abschluss der großen Friedensverhandlungen; 28.13.-1
 
 ## das dritte Zeitalter
-Beginnt mit dem Abschluss der Friedensverhandlungen von [[Kovagie]] und dem Inkrafttreten der neuen Zeitrechnung.
+Beginnt mit dem Abschluss der Friedensverhandlungen von [[Suroden-Wiki/Sarestra (Insel)/Regionen/Kovagie]] und dem Inkrafttreten der neuen Zeitrechnung.

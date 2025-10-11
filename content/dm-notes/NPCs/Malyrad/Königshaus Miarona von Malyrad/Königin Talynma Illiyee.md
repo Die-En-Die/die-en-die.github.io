@@ -9,7 +9,7 @@ draft: "true"
 ## Quick Info
 - Spezies: Elfin
 - Alter: 148
-- Tätigkeit: Königsbraut/Königin von [[Malyrad]] 
+- Tätigkeit: Königsbraut/Königin von [[Suroden-Wiki/Malyrad (Insel)/Regionen/Malyrad]] 
 - Aussehen:
 	- 
 - Stimme:

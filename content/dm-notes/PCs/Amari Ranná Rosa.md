@@ -66,6 +66,10 @@ tags:
 	- sylvanisch
 	- elfisch (nur lesen)
 
+### potenzielle magische Items
+- Armschienen der Verteidigung (Bracers of Defense)
+	- rare
+
 ### Backstory
 - Prinzessin Amari, letztes von neun Kindern und Thronfolgerin wird umgebracht
 - Konstrukt Amari wird gebaut, um den Anschein zu wahren, dass alles gut ist

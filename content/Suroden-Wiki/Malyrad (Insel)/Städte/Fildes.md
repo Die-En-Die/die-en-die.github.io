@@ -22,8 +22,8 @@ Blühende Hafen- und Handelsstadt. Blühend zweideutig:
 
 ![[Moodboard_Fildes.png]]
 ## Info
-- Sitz des [[Königshaus Miarona von Malyrad]] 
-- Sitz des [[Fey Hof des Frühlings]] 
+- Sitz des [[Suroden-Wiki/Malyrad (Insel)/NPCs & Organisationen/Königshaus Miarona von Malyrad]] 
+- Sitz des [[Suroden-Wiki/Malyrad (Insel)/NPCs & Organisationen/Fey Hof des Frühlings]] 
 
 ### Klima/Biome/Flora
 - gemäßigtes Klima

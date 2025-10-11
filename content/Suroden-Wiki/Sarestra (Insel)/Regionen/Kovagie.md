@@ -5,7 +5,7 @@ tags:
 ---
 
 ## Info
-- Heimat von [[Kopalkije's Akademie der Arkanen Künste]] 
+- Heimat von [[Suroden-Wiki/Sarestra (Insel)/NPCs & Organisationen/Kopalkije's Akademie der Arkanen Künste]] 
 - Vulkanische Inselgruppe
 
 ### Klima/Biome/Flora
@@ -13,14 +13,14 @@ tags:
 - Umgeben von permanent gefrorenem Ozean
 - Vulkan spendet notwendige Wärme für stabiles mediterranes Klima
 - Hartlaub- und Nadelhölzer
-- [[Suroden (Inselgruppe)#Klima|Suroden>Klima]] 
+- [[Suroden-Wiki/Suroden (Inselgruppe)#Klima|Suroden>Klima]] 
 
 ### Lage
-- Inselgruppe im Norden [[Sarestra (Insel)|Sirestras]] 
+- Inselgruppe im Norden [[Suroden-Wiki/Sarestra (Insel)/Sarestra (Insel)|Sirestras]] 
 - gilt als neutraler Boden
 
 ### Points of Interest
-- [[Kopalkije's Akademie der Arkanen Künste]] 
+- [[Suroden-Wiki/Sarestra (Insel)/NPCs & Organisationen/Kopalkije's Akademie der Arkanen Künste]] 
 
 ### Events
 - [[große Friedensverhandlung]] 

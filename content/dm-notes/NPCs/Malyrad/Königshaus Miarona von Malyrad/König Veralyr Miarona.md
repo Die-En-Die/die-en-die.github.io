@@ -9,7 +9,7 @@ draft: "true"
 ## Quick Info
 - Spezies: Elf
 - Alter: 171
-- Tätigkeit: König von [[Malyrad]] 
+- Tätigkeit: König von [[Suroden-Wiki/Malyrad (Insel)/Regionen/Malyrad]] 
 - Aussehen:
 	- 
 - Stimme:
@@ -23,8 +23,8 @@ draft: "true"
 - Name:
 	- Ver - Frieden; al - Harmonie; yr - Bringer
 	- Bringer von Frieden und Harmonie
-- Maßgeblich verantwortlich für den Frieden nach der [[Kollision]] & die Aufteilung der Reiche (Reich [[Suroden (Inselgruppe)|Suroden]] -> Bund der drei Reiche)
-- Übername der Regierung von [[Malyrad]] 
+- Maßgeblich verantwortlich für den Frieden nach der [[Kollision]] & die Aufteilung der Reiche (Reich [[Suroden-Wiki/Suroden (Inselgruppe)|Suroden]] -> Bund der drei Reiche)
+- Übername der Regierung von [[Suroden-Wiki/Malyrad (Insel)/Regionen/Malyrad]] 
 
 ## Verknüpfte Charaktere
 - Kinder:

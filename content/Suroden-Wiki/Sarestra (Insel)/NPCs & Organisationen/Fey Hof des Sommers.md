@@ -8,7 +8,7 @@ tags:
 
 ## Info
 - absolute Erbmonarchie
-- Sitz in [[Rucika]]
+- Sitz in [[Suroden-Wiki/Sarestra (Insel)/Städte/Rucika]]
 
 ## Mitglieder
 - ...

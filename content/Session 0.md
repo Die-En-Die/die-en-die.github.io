@@ -59,12 +59,15 @@ tags:
 - in Kämpfen
 - Städtemaps
 - Weltmap
-	- 5px ~ 1km
-	- 25px ~ 5km
-	- 50px ~ 10km
+	- 5px ~ 0,96km
+	- 25px ~ 4,8km
+	- 50px ~ 9,6km
+	- 200px ~ 38,4km
 
 ## Scheduling
 - alle 2-3 Wochen nach Möglichkeit
-	- am ende der Session 1-2 Sessions vorrausplanen
+	- am ende der Session 1-2 Sessions vorausplanen
 - erste Session
 	- 14.09. 13:00 Uhr
+
+test

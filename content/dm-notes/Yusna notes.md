@@ -2,12 +2,12 @@
 title: Yusna notes
 draft: "true"
 ---
-# [[Yusna]]
+# [[Suroden-Wiki/Sarestra (Insel)/Regionen/Yusna]]
 - 
 
-## [[Rucika]]
+## [[Suroden-Wiki/Sarestra (Insel)/Städte/Rucika]]
 - Nachrichtensystem mit der Außenwelt?
 
-## [[Republik Yusna]]
+## [[Suroden-Wiki/Sarestra (Insel)/NPCs & Organisationen/Republik Yusna]]
 - 3 Regierende:
 	- Frau an der Spitze

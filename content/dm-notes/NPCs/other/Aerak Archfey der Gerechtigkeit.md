@@ -20,13 +20,16 @@ draft: "true"
 	- weiße Augen
 	- tarnt sich oft als blinder Bettler
 - Stimme:
-	- 
+	- grinsend
+	- säuselnd
+	- Siri-Beast-like
 - Charakter:
 	- lawful-neutral/böse
 	- nachtragend
 
 ## Notizen
 - Aerak - Sturm der Ordnung
+- Zuhause in Pandämonium
 
 ## Verknüpfte Charaktere
 - Geschwister:

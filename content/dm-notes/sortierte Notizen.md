@@ -12,23 +12,25 @@ draft: "true"
 	- [[#[[Yusna]]#[[Rucika]]|[[Rucika]]]]
 
 
-# [[Malyrad (Insel)]]
+# [[Malyrad (Insel)]] 
 
-## [[Malyrad]]
+## [[Malyrad]] 
 
-### [[Fildes]]
+### [[Fildes]] 
 
-## [[Fey Hof des Frühlings]]
+### [[Letobal]] 
 
-# [[Sarestra (Insel)]]
+## [[Fey Hof des Frühlings]] 
 
-## [[Stendo]]
+# [[Sarestra (Insel)]] 
 
-### [[Presta]]
+## [[Stendo]] 
 
-## [[Yusna]]
+### [[Presta]] 
 
-### [[Rucika]]
+## [[Yusna]] 
+
+### [[Rucika]] 
 
 # Antagonisten
 - Amari's Patron ([[#Aerak Archfey der Gerechtigkeit|Aerak]]) arbeitet mit [[Königin Talynma Illiyee]] zusammen
@@ -78,3 +80,13 @@ draft: "true"
 - Symbolik
 	- goldener Drache (Wurm) in form eines Unendlichkeitssymbols
 		- Ancient Gold Drache mit Bücherhorde
+
+# Magic Item Liste
+- egal:
+	- ungewöhnlich:
+		- unbewegbares Zepter (immovble rod)
+	- gewöhnlich:
+		- sprechende Puppe
+- Amari:
+	- selten:
+		- Armschienen der Verteidigung (Bracers of Defense)

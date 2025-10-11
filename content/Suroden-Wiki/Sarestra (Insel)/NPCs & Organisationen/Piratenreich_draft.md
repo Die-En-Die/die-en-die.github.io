@@ -11,7 +11,7 @@ draft: "true"
 	- König\*in mit dem höchsten Kopfgeld rückt nach wenn die position Kaiser\*in offen wird
 	- Kaiser\*in legt die drei König\*innen fest
 	- König\*innen legen Kapitän\*innen fest
-- Sitz auf den Inseln südlich von [[Sarestra (Insel)]] 
+- Sitz auf den Inseln südlich von [[Suroden-Wiki/Sarestra (Insel)/Sarestra (Insel)]] 
 - "Hauptstadt" aus alten Schiffen gebaut
 
 ## Mitglieder

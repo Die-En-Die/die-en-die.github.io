@@ -2,13 +2,13 @@
 title: Stendo notes
 draft: "true"
 ---
-# [[Stendo]]
+# [[Suroden-Wiki/Sarestra (Insel)/Regionen/Stendo]]
 - 
 
-## [[Presta]]
+## [[Suroden-Wiki/Sarestra (Insel)/Städte/Presta]]
 
-## [[Stratokratie Stendo]]
+## [[Suroden-Wiki/Sarestra (Insel)/NPCs & Organisationen/Stratokratie Stendo]]
 - ehemaliger Zwergenkönig als Staatsoberhaupt
 
-## [[Fey Hof des Winters]]
+## [[Suroden-Wiki/Sarestra (Insel)/NPCs & Organisationen/Fey Hof des Winters]]
 - Guilty Pleasure Amari

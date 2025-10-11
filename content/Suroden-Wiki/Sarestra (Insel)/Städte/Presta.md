@@ -10,7 +10,7 @@ tags:
 ![[Moodboard_Presta.png]]
 
 ## Info
-- Sitz der [[Stratokratie Stendo]] 
+- Sitz der [[Suroden-Wiki/Sarestra (Insel)/NPCs & Organisationen/Stratokratie Stendo]] 
 - Aufgebaut in 3 Ebenen:
 	1. Ebene (überirdisch): kykladische Architektur
 	2. Ebene (unterirdisch): große aus dem Berg geschlagene Hallen, polierter Stein, Wasserwege

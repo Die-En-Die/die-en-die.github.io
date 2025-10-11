@@ -136,6 +136,11 @@ Nachtwandelnde Kreatur
   - atmen, schnüffeln, scharren, gehen, evtl verrinzelte wörter oder sätze zu bestimmten party membern
 
 
+2 Wächter:
+- ein wächter lügt immer
+- ein wächter ist immer falsch aber denkt er sagt immer die wahrheit
+
+
 Roboter Artig wo es hintritt stirbt alles
 
   - verrottete Fußstapfen

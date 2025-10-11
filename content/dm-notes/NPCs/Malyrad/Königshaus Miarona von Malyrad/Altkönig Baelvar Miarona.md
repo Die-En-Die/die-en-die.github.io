@@ -21,7 +21,7 @@ draft: "true"
 ## Notizen#
 - Name:
 	- Bael - Hüter; var - Vater
-	- hütender Vater (Bezogen auf das Reich [[Suroden (Inselgruppe)|Suroden]])
+	- hütender Vater (Bezogen auf das Reich [[Suroden-Wiki/Suroden (Inselgruppe)|Suroden]])
 - Abdankung nach der [[Kollision]] und Übergabe an seinen Sohne [[König Veralyr Miarona]] 
 
 ## Verknüpfte Charaktere

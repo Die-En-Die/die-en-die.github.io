@@ -10,7 +10,7 @@ tags:
 - Baumhirten
 - Rat mit Wahl auf Lebzeiten
 - Einziger Hof ohne festen Sitz
-	- Frei in den Wäldern von [[Stendo]] 
+	- Frei in den Wäldern von [[Suroden-Wiki/Sarestra (Insel)/Regionen/Stendo]] 
 
 ## Mitglieder
 - ...

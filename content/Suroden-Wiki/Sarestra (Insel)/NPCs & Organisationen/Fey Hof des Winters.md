@@ -8,7 +8,7 @@ tags:
 
 ## Info
 - "konstitiutionelle" Wahlmonarchie (Konstitution = Gunst der Gesellschaft)
-- Sitz an der nördlichsten spitze [[Sarestra (Insel)|Sarestras]] 
+- Sitz an der nördlichsten spitze [[Suroden-Wiki/Sarestra (Insel)/Sarestra (Insel)|Sarestras]] 
 
 ## Mitglieder
 - ...
