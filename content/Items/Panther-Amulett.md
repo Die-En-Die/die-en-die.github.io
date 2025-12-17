@@ -1,0 +1,1 @@
+Ein magisches Amulett aus einem roten Edelstein, geschliffen zu einem Pantherkopf, eingefasst in Silber.
