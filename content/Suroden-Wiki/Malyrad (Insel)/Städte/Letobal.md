@@ -17,12 +17,9 @@ tags:
 
 ### Points of Interest
 - Sommerpalast "Vescovado di Miarona" der [[Suroden-Wiki/Malyrad (Insel)/NPCs & Organisationen/Königshaus Miarona von Malyrad|Königsfamilie Miarona]] 
-- Potionmaker
-	- Haus sinkt quasi in sich zusammen
-	- beschlagene Scheiben
-	- "Dschungelartiges Klima"
-		- heiß und feucht
-		- so viele Pflanzen, dass man keine 2 meter weit sehen kann
+	- 
+- Höhle mit unterirdischer Bibliothek
+	- darin gefunden: [[Panther-Amulett]] 
 - Hochzeitsfestival
 
 ### Events
